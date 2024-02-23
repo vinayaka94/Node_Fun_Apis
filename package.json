@@ -1,0 +1,14 @@
+{
+  "name": "position-service",
+  "version": "1.0.1",
+  "description": "This is the Microservice for creating/updating/validation of the Position Entity",
+  "main": "position-create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sowjanya-Position-Service",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
